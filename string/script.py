@@ -36,3 +36,6 @@ a.replace('b', 'm')
 
 # split
 a.split()
+
+# string to array
+list(a)
