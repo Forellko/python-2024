@@ -30,3 +30,6 @@ a.lower()
 
 # strip remove whitespace
 print("  blood  ".strip())
+
+# replace
+a.replace('b', 'm')
