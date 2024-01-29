@@ -12,3 +12,6 @@ len(a)
 
 # check not in string
 'oo' not in a
+
+# slice
+a[2:4]
