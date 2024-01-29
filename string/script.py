@@ -15,3 +15,9 @@ len(a)
 
 # slice
 a[2:4]
+
+# slice from the start
+a[:2]
+
+# slice to the end
+a[2:]
