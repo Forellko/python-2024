@@ -9,3 +9,6 @@ len(a)
 
 # check string
 'oo' in a
+
+# check not in string
+'oo' not in a
