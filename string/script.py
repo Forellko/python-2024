@@ -21,3 +21,9 @@ a[:2]
 
 # slice to the end
 a[2:]
+
+# uppercase
+a.upper()
+
+# lowercase
+a.lower()
