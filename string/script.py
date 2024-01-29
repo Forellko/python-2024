@@ -29,7 +29,7 @@ a.upper()
 a.lower()
 
 # strip remove whitespace
-print("  blood  ".strip())
+"  blood  ".strip()
 
 # replace
 a.replace('b', 'm')
@@ -39,3 +39,7 @@ a.split()
 
 # string to array
 list(a)
+
+# format
+b = "Hello, {0}, age {1}, level {2}"
+b.format('world', '26', '3')
