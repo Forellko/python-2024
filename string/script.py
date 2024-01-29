@@ -6,3 +6,6 @@ for x in a:
 
 # length of string
 len(a)
+
+# check string
+'oo' in a
