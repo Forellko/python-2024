@@ -4,3 +4,5 @@ a = "blood"
 for x in a:
   print(x)
 
+# length of string
+len(a)
