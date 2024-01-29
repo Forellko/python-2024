@@ -33,3 +33,6 @@ print("  blood  ".strip())
 
 # replace
 a.replace('b', 'm')
+
+# split
+a.split()
