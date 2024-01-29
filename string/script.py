@@ -27,3 +27,6 @@ a.upper()
 
 # lowercase
 a.lower()
+
+# strip remove whitespace
+print("  blood  ".strip())
