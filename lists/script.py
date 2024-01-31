@@ -9,3 +9,6 @@ arr.append('Potato')
 arr.extend(["Hello", "World"])
 
 arr.remove('Potato')
+
+arr.pop(6)
+arr.pop()
