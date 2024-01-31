@@ -14,3 +14,5 @@ arr.pop(6)
 arr.pop()
 
 arr.clear()
+
+del arr
