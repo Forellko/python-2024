@@ -15,3 +15,5 @@ arr.pop()
 
 for x in arr:
   print(x)
+
+arr2 = [x for x in arr if 'a' in x]
