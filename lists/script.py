@@ -7,3 +7,5 @@ arr.insert(2, 'Tomato')
 arr.append('Potato')
 
 arr.extend(["Hello", "World"])
+
+arr.remove('Potato')
