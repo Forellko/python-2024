@@ -12,3 +12,5 @@ arr.remove('Potato')
 
 arr.pop(6)
 arr.pop()
+
+arr.clear()
