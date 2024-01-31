@@ -13,6 +13,5 @@ arr.remove('Potato')
 arr.pop(6)
 arr.pop()
 
-arr.clear()
-
-del arr
+for x in arr:
+  print(x)
