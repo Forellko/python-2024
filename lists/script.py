@@ -21,3 +21,5 @@ arr2 = [x for x in arr if 'a' in x]
 arr3 = arr.copy()
 
 arr4 = arr + [1,2,3]
+
+arr4.reverse()
