@@ -25,4 +25,3 @@ arr4 = arr + [1,2,3]
 arr4.reverse()
 
 (a,b,*c) = arr
-print(a,b,c)
